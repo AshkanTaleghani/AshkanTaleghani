@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi👋 , I am Full-stack .NET developer focused on Blazor (Server & WASM) and Asp.net Core
+
 ## This is my collabration in other projects :
 
 [Silver_Blazor_Components](https://github.com/Oclick021/Silver_Blazor_Components) Role : I am Blazor Developer for Silver Core Services .
